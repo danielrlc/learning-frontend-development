@@ -1,2 +1,4 @@
-# how-to-learn-frontend-dev-skills
-Strategies for learning frontend developer skills
+# How to become a frontend developer
+
+
+
